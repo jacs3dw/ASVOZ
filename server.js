@@ -1,17 +1,23 @@
 const express = require("express");
 const cors = require("cors");
-const { OpenAI } = require("openai"); // Importa OpenAI
-const fs = require("fs"); // Requiere el módulo fs para leer y escribir en el archivo
+const { OpenAI } = require("openai");
+const fs = require("fs");
+
+// Cargar las variables de entorno desde el archivo .env
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Configuración de OpenAI
+// Configuración de OpenAI usando la variable de entorno
 const openai = new OpenAI({
-    apiKey: "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", // Reemplaza con tu propia API Key
+    apiKey: process.env.OPENAI_API_KEY, // Usar la clave API del archivo .env
     baseURL: "https://api.openai.com/v1",
 });
+
+
+
 
 // Cargar datos desde el archivo data.json
 function cargarDatos() {
