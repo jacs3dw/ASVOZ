@@ -138,5 +138,9 @@
   "tienes mula cama baja": {
     "respuesta": "No, solo montacargas.",
     "palabrasClave": []
+  },
+  "debo coger la poliza en caso de accidentes": {
+    "respuesta": "Sí, es recomendable.",
+    "palabrasClave": []
   }
 }
