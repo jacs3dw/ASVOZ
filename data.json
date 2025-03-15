@@ -1,0 +1,142 @@
+{
+  "Hola": {
+    "respuesta": "Hola, ¿cómo estás?",
+    "palabrasClave": [
+      "hola",
+      "buenas",
+      "saludos"
+    ]
+  },
+  "Que pasa si me paso de horas de alquiler": {
+    "respuesta": "Debe pagar adicional?",
+    "palabrasClave": [
+      "horas",
+      "alquiler",
+      "exceder",
+      "pago adicional",
+      "penalización",
+      "cargos",
+      "costos adicionales",
+      "retraso",
+      "condiciones",
+      "extensión"
+    ]
+  },
+  "donde estan ubicados": {
+    "respuesta": "Estamos ubicados en Barranquilla avenida Circumbalar",
+    "palabrasClave": [
+      "ubicados",
+      "dirección",
+      "localización",
+      "lugar",
+      "sede",
+      "oficinas",
+      "tiendas",
+      "ubicación",
+      "dirección exacta",
+      "donde",
+      "cual es tu direccion",
+      "tu direccion"
+    ]
+  },
+  "cuánto cuesta alquilar un montacargas": {
+    "respuesta": "El alquiler cuesta desde $500,000 COP por día, dependiendo del modelo y duración.",
+    "palabrasClave": [
+      "precio",
+      "tarifa",
+      "costo",
+      "alquiler"
+    ]
+  },
+  "tienen montacargas disponibles": {
+    "respuesta": "Actualmente no puedo brindarle la información exacta, pero puede revisar nuestro catálogo en el sitio web.",
+    "palabrasClave": [
+      "disponibles",
+      "stock",
+      "montacargas en alquiler"
+    ]
+  },
+  "cual es el horario de atencion": {
+    "respuesta": "De 8am a 7pm.",
+    "palabrasClave": [
+      "horario",
+      "atención",
+      "tiempo",
+      "trabajo"
+    ]
+  },
+  "cual es tu direccion": {
+    "respuesta": "Estamos ubicados en Barranquilla.",
+    "palabrasClave": []
+  },
+  "tiene montacargas disponible para alquilar hoy": {
+    "respuesta": "Revisar el catálogo, por favor",
+    "palabrasClave": [
+      "montacargas",
+      "alquiler",
+      "disponible",
+      "costo"
+    ]
+  },
+  "que disponibilidad tienes hoy": {
+    "respuesta": "No puedo brindar información exacta.",
+    "palabrasClave": []
+  },
+  "cuanta cargas libres": {
+    "respuesta": "Revisar especificaciones técnicas.",
+    "palabrasClave": []
+  },
+  "sabes como me llamo yo": {
+    "respuesta": "No, no lo sé.",
+    "palabrasClave": []
+  },
+  "que opinas de la vida": {
+    "respuesta": "Como asesora, no opino.",
+    "palabrasClave": []
+  },
+  "advertencia": true,
+  "quien va a ganar hoy en el partido de colombia": {
+    "respuesta": "No puedo predecir resultados.",
+    "palabrasClave": []
+  },
+  "cuanto cada cuanto queda el junior": {
+    "respuesta": "No manejo información deportiva.",
+    "palabrasClave": []
+  },
+  "hoy": {
+    "respuesta": "¿Cómo puedo ayudarte hoy?",
+    "palabrasClave": []
+  },
+  "cuantas patas tiene un gato": {
+    "respuesta": "Un gato tiene cuatro.",
+    "palabrasClave": []
+  },
+  "un perro": {
+    "respuesta": "¿Cómo puedo ayudarte?",
+    "palabrasClave": []
+  },
+  "cuantas patas tiene un perro": {
+    "respuesta": "Un perro tiene cuatro patas.",
+    "palabrasClave": []
+  },
+  "perro": {
+    "respuesta": "No entiendo la pregunta.",
+    "palabrasClave": []
+  },
+  "cuanto va a quedar el partido del junior hoy": {
+    "respuesta": "No tengo esa información.",
+    "palabrasClave": []
+  },
+  "conoces a jorge": {
+    "respuesta": "No, soy asesora comercial.",
+    "palabrasClave": []
+  },
+  "conoces a maria": {
+    "respuesta": "No conozco a personas.",
+    "palabrasClave": []
+  },
+  "tienes mula cama baja": {
+    "respuesta": "No, solo montacargas.",
+    "palabrasClave": []
+  }
+}
